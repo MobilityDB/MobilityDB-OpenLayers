@@ -17,8 +17,13 @@ The data of Fabrìcio can be found in the following repository : https://github.
 In order to change the data to display, change the variable at the end of ``var file = ...`` which is located at the start of each javascript file for each implementation
 
 Th AIS dataset has been extracted as described in the report
-# Example
+# AIS Example
 https://user-images.githubusercontent.com/75175261/168469479-8d6be5e3-086d-4cb9-ba5b-f513c3979b81.mp4
+
+# Berlin Example
+
+https://user-images.githubusercontent.com/75175261/169296039-04111412-b3dd-4e51-beb2-cac617d516ff.mp4
+
 
 # Troubleshooting
 When running a script after another, sometimes, the browser does not reload and does not display the wanted execution.
