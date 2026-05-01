@@ -13,7 +13,7 @@ In order to reproduce this visualization you need to :
 5. Finally to get the result, open the browser on ````localhost:1234````
 
 # Datasets used
-The data of Fabrìcio can be found in the following repository : https://github.com/MobilityDB/MobilityDB-Deck <br/>
+The data of Fabrìcio can be found in the following repository : https://github.com/MobilityDB/MobilityDeck <br/>
 In order to change the data to display, change the variable at the end of ``var file = ...`` which is located at the start of each javascript file for each implementation
 
 Th AIS dataset has been extracted as described in the report
