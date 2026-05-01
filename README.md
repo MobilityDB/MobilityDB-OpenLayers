@@ -1,4 +1,4 @@
-# MobilityDB-OpenLayers
+# MobilityOpenLayers
 
 
 # Visualization
